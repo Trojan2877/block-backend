@@ -14,7 +14,7 @@ public class Block {
 	private int block;
 
 	private int nextBlock;
-	
+
 	private LocalDateTime createdOn;
 
 	private LocalDateTime updatedOn;
